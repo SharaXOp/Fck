@@ -30,12 +30,6 @@ from strings import get_string
 
 NEXI_VID = [
 "https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
 
 ]
 
